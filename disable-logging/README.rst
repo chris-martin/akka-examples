@@ -1,0 +1,2 @@
+Disables akka logging.
+
